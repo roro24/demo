@@ -1,5 +1,5 @@
 #Demo project README
 
 this is a simple readme file
-adding some new text to learn how to update an exesting file in git
-some updates in update branch
+##Heading 3
+I hope this isn't much of a problem
